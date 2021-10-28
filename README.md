@@ -7,7 +7,7 @@ __DNI: 54045424r__
   * 10 años como analista programador en SHIDIX
   * 2 meses como analista programador en Obecan _( Funcatra )_
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Me](https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/36095.JPG " My other me")  { width: 100px; }
 
 Prueba de gitpod
 
