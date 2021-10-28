@@ -11,8 +11,9 @@ __DNI: 54045424r__
   * Extra en la serie la Fundación
   * Extra en la pelicula Bourne
 
-<img src="https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/36095.JPG"  width="300" height="200" />
+<img src="https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/36095.JPG"  width="300" height="200"  class="center"/>
 
-[Instagram](https://www.instagram.com/nestortf/)
+* [Instagram](https://www.instagram.com/nestortf/)
+
 
 
