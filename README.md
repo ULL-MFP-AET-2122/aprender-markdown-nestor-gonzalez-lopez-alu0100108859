@@ -7,12 +7,14 @@ __DNI: 54045424r__
   * 10 años como analista programador en SHIDIX
   * 2 meses como analista programador en Obecan _( Funcatra )_
 
-* Otras Experencia
+* Otra Experencia
   * Extra en la serie la Fundación
   * Extra en la pelicula Bourne
+<center>
+<img src="https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/36095.JPG"  width="300" height="200" />
 
-![](https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/36095.JP){width='750px'}
 
+</center>
 
 * [Instagram](https://www.instagram.com/nestortf/)
 
