@@ -1,1 +1,1 @@
-He aprendido algunas cosas interesante en el master de Formación del profesorado.
+He aprendido algunas cosas interesantes en el master de Formación del profesorado.
