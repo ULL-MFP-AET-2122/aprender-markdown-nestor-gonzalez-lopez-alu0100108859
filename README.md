@@ -2,7 +2,7 @@
 __Nestor González López__
 __DNI: 54045424r__
 
-__Última película que vi:__
+__Última pelicula que vi:__
 
 ![entre_les_murs-dossier-presse](https://user-images.githubusercontent.com/93214873/139586576-71ec7017-b9b8-4321-8b3a-f6e58c1db347.jpg)
 
@@ -32,12 +32,19 @@ por la terraza de madera»
 
 __Código Inline__
 
+I think you should use an
+`<addr>` element here instead.
+
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+function getfocus()
+    {
+            document.getElementById('w3s').focus();
+    }
+    
+    function losefocus()
+    {
+            document.getElementById('w3s').blur();
+    }
 ```
 __Tabla y Emoji__
 
