@@ -2,6 +2,11 @@
 __Nestor González López__
 __DNI: 54045424r__
 
+__Última pelicula que vi:__
+
+![entre_les_murs-dossier-presse](https://user-images.githubusercontent.com/93214873/139586576-71ec7017-b9b8-4321-8b3a-f6e58c1db347.jpg)
+
+
 _Curriculum_
 
 * Ingeneriero Informático
