@@ -12,28 +12,20 @@ _Curriculum_
 * Otra Experencia
   * Extra en la serie la Fundación
   * Extra en la pelicula Bourne
-<center>
+
 <img src="https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/36095.JPG"  width="300" height="200" />
-
-
-</center>
 
 * [Instagram](https://www.instagram.com/nestortf/)
 
-<<<<<<< HEAD
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14027.645982446822!2d-16.3179884!3d28.4822119!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5b8dd87861f08c8!2sFacultad%20de%20Educaci%C3%B3n!5e0!3m2!1ses!2ses!4v1635681185661!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> 
-</figure>
-<!-- blank line -->
+__Frases__
 
-
-=======
 «Andando con sus patitas mojadas,  
 el gorrión  
 por la terraza de madera»
 
 > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
+
+__Código Inline__
 
 ```javascript
 function fancyAlert(arg) {
@@ -42,9 +34,6 @@ function fancyAlert(arg) {
   }
 }
 ```
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+__Emoji__
+ :grinning:
 
