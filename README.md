@@ -32,8 +32,9 @@ por la terraza de madera»
 
 __Código Inline__
 
-I think you should use an
-`<addr>` element here instead.
+`Este` es un codigo inline block! <code>Y este</code> es otro!
+
+__Colores__
 
 ```javascript
 function getfocus()
