@@ -34,8 +34,12 @@ function fancyAlert(arg) {
   }
 }
 ```
-__Emoji__
- :grinning:
+__Tabla y Emoji__
+
+| Emoji | Description |
+| --- | ----------- |
+| :grinning: | Smile |
+| :angry: | Angry |
 
 __Añadir fichero__
 
