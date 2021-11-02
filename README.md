@@ -1,6 +1,6 @@
 
 __Nestor González López__
-__DNI: 54045424r__
+
 
 __Última pelicula que vi:__
 
