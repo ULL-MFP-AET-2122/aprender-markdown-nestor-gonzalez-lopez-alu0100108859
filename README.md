@@ -9,6 +9,8 @@ __Última pelicula que vi:__
 
 _Curriculum_
 
+[Perfil](https://github.com/alu0100108859) 
+
 * Ingeneriero Informático
 * Experiencia
   * 10 años como analista programador en SHIDIX
